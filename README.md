@@ -1,6 +1,6 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+Create random names for your startup!
 
 ## Getting Started
 
